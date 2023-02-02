@@ -23,6 +23,10 @@ Just for fun, here is a three that shows how the repository is organized.
 └── Team-Assignments
 ```
 
+## Pull Requests
+
+Feel free to fork and practice pull requesting to this repo
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
