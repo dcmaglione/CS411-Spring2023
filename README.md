@@ -12,7 +12,7 @@ Throughout this semester, I'll be periodically adding things to this repository.
 
 ## File Structure
 
-Just for fun, here is a three that shows how the repository is organized.
+Just for fun, here is a tree that shows how the repository is organized.
 
 ```text
 .
